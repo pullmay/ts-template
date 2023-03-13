@@ -1,0 +1,1 @@
+This is my personal template for TypeScript projects. It was made with Node v18, `pnpm` and VSCode in mind. It uses [swc](https://swc.rs) as the transpiler and ESLint for code-style enforcement and linting. Feel free to do whatever you want with it.
